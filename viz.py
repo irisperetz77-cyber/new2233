@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.title("גרף דוגמה")
+st.title("גרף לדוגמא")
 
 # יצירת נתונים לדוגמה
 df = pd.DataFrame({
