@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Dashboard קטן", layout="wide")
 
 st.title("Dashboard קטן")
-st.write("ברוכים הבאים לדשבורד הקטן שלך!")
+st.write("ברוכים הבאים לדשבורד  שלך!")
 
 # דוגמה לסטטיסטיקות קטנות
 col1, col2, col3 = st.columns(3)
